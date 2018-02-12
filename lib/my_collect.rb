@@ -8,5 +8,5 @@ def mycollect(array)
     i += 1
   end
 
-  newArr
+  array
 end
