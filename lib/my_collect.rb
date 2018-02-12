@@ -7,3 +7,6 @@ def mycollect(array)
     newArr << yield array[i]
     i += 1
   end
+
+  newArr
+end
